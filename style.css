@@ -1,1 +1,29 @@
+h1{
+    color: rgb(95, 117, 57);
+    text-align: center;
+    font-family: Georgia;
+}
+#Eggplant-Parmesan{
+    background: rgb(212, 209, 191);
+    border-width: 13px ; 
+    border-style: double;
+    border-color: rgb(115, 130, 90);
+    border-radius: 5px;
+    padding: 25px;
+    margin: 25px;
+}
+p{
+    color:rgb(72, 91, 68);
+    font-family: ;
+    font-style:oblique;
+}
 
+li{
+    color:rgb(72, 91, 68);
+    font-style:oblique;
+
+}
+
+h3{
+    color:rgb(58, 74, 59);
+}
