@@ -1,3 +1,8 @@
+body{
+    ;
+}
+
+
 h1{
     color: rgb(95, 117, 57);
     text-align: center;
@@ -14,7 +19,6 @@ h1{
 }
 p{
     color:rgb(72, 91, 68);
-    font-family: ;
     font-style:oblique;
 }
 
@@ -26,4 +30,8 @@ li{
 
 h3{
     color:rgb(58, 74, 59);
+}
+
+img{
+    border: 5px solid rgb(115, 130, 90);
 }
